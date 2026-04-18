@@ -1,3 +1,3 @@
-Hello Web!
+Hello Quartz!
 
-## Good
+第一次用`Cloudflare`部署Web站点！
